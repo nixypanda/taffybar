@@ -23,7 +23,7 @@ extra-source-files:
 
 flag cryptocurrency
     description: Enable crypto assets widget.
-    default: True
+    default: False
 
 library
   default-extensions:
